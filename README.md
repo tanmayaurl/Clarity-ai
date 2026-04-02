@@ -169,7 +169,7 @@ This project was built to help people overcome indecision by combining AI intell
 
 ## 👩‍💻 Author
 
-**Tanu**
+**Tanmaya**
 Aspiring Developer | AI Enthusiast | Problem Solver 🚀
 
 ---
